@@ -1,1 +1,2 @@
-console.log('hello world')
+str = "hello world"
+console.log(str)
